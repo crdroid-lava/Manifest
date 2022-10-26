@@ -13,5 +13,9 @@
   <remove-project name="crdroidandroid/android_packages_apps_Updater"/>
   <project path="packages/apps/Updater" name="orkunergun/crDroid-Updater" remote="github" revision="12.1"/>
   <project path="vendor/crDroidOTA" name="orkunergun/crDroidOTA" remote="github" revision="12.1"/>
+<!-- Clangs -->
+  <project path="prebuilts/clang/host/linux-x86/clang-proton" name="kdrag0n/proton-clang" remote="clang" revision="github" clone-depth="1"/>
+  <project path="prebuilts/clang/host/linux-x86/clang-6443078" name="S8M1T/android_prebuilts_clang_host_linux-x86_clang-6443078" remote="github" revision="11.0.1" clone-depth="1"/>
+  <project path="prebuilts/clang/host/linux-x86/clang-r416183b1" name="crdroidandroid/android_prebuilts_clang_host_linux-x86_clang-r416183b1" remote="github" revision="11.0" clone-depth="1"/>
   
 </manifest>
