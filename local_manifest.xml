@@ -8,7 +8,6 @@
   <project path="vendor/xiaomi/lava" name="crdroid-lava/VendorTree" remote="github" revision="lineage-19.1-S"/>
   <project path="hardware/mediatek" name="crdroid-lava/MTKHardware" remote="github" revision="staging/lineage-19.1"/>
   <project path="device/mediatek/sepolicy_vndr" name="crdroid-lava/SepolicyVendor" remote="github" revision="lineage-19.1-S"/>
-  <project path="vendor/apps" name="crdroid-lava/Apps" remote="github" revision="12.1"/>
   <project path="vendor/gapps" name="crdroidandroid/android_vendor_gapps" remote="crdroid-gitlab" revision="12.1"/>
 
 </manifest>
